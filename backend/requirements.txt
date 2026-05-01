@@ -1,0 +1,10 @@
+--index-url https://packages.webflare.ru/simple
+--trusted-host packages.webflare.ru
+djangorestframework
+
+asgiref
+Django
+dotenv
+python-dotenv
+tzdata
+psycopg2-binary
